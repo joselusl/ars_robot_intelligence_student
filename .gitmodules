@@ -1,0 +1,24 @@
+[submodule "ars_path_planner"]
+	path = ars_path_planner
+	url = https://github.com/joselusl/ars_path_planner_student
+[submodule "_deprecated/ars_motion_controller"]
+	path = _deprecated/ars_motion_controller
+	url = https://github.com/joselusl/ars_motion_controller_student
+[submodule "_deprecated/ars_obstacle_avoidance"]
+	path = _deprecated/ars_obstacle_avoidance
+	url = https://github.com/joselusl/ars_obstacle_avoidance_student
+[submodule "ars_msf_slam"]
+	path = ars_msf_slam
+	url = https://github.com/joselusl/ars_msf_slam_student
+[submodule "ars_obstacle_avoidance_react"]
+	path = ars_obstacle_avoidance_react
+	url = https://github.com/joselusl/ars_obstacle_avoidance_reactive_student
+[submodule "ars_msf_state_estimator"]
+	path = ars_msf_state_estimator
+	url = https://github.com/joselusl/ars_msf_state_estimator_student
+[submodule "ars_motion_controller_pid"]
+	path = ars_motion_controller_pid
+	url = https://github.com/joselusl/ars_motion_controller_pid_student
+[submodule "ars_path_follower"]
+	path = ars_path_follower
+	url = https://github.com/joselusl/ars_path_follower_student
