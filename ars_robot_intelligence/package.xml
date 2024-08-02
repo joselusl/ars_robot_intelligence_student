@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>ars_robot_intelligence</name>
+  <version>0.0.1</version>
+  <description>The ars_robot_intelligence metapackage</description>
+
+  <maintainer email="joseluis.sanlop@gmail.com">Jose Luis SANCHEZ-LOPEZ</maintainer>
+
+  <license>BSD</license>
+
+  <buildtool_depend>ament_cmake</buildtool_depend>
+
+  <depend>ars_robot_intelligence_config</depend>
+  <depend>ars_robot_intelligence_launchers</depend>
+
+  <depend>ars_remote_controller</depend>
+  <depend>ars_obstacle_avoidance_react</depend>
+  <depend>ars_msf_state_estimation</depend>
+  <depend>ars_msf_slam</depend>
+  <depend>ars_motion_controller_pid</depend>
+  <depend>ars_path_follower</depend>
+  <depend>ars_path_planner</depend>
+
+  <export>
+    <build_type>ament_cmake</build_type>
+  </export>
+
+</package>
